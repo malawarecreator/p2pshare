@@ -1,3 +1,3 @@
 module malawarecreator/p2pshare
 
-go 1.24.0
+go 1.24
